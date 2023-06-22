@@ -6,9 +6,9 @@ cluster:
 master:
   persistence:
     enabled: false
-replica:
-  persistence:
-    enabled: false
 
 volumePermissions:
   enabled: true
+
+replica:
+  replicaCount: 3
