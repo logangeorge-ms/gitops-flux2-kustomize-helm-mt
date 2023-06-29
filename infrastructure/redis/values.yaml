@@ -11,4 +11,4 @@ volumePermissions:
   enabled: true
 
 replica:
-  replicaCount: 4
+  replicaCount: 3
